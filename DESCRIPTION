@@ -2,7 +2,7 @@ Package: mean
 Title: Mean
 Version: 0.0.0.9000
 Authors@R: 
-    person("Randi", "Bolt", , "rbolt@pdx.edu", role = c("aut", "cre")
+    person("Randi", "Bolt", , "rbolt@pdx.edu", role = c("aut", "cre"))
 Description: This package takes in a string of values and outputs the mean. 
 License: MIT + file LICENSE
 Encoding: UTF-8
