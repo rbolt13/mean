@@ -1,12 +1,10 @@
 Package: mean
-Title: What the Package Does (One Line, Title Case)
+Title: Mean
 Version: 0.0.0.9000
 Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"),
-           comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
-License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
-    license
+    person("Randi", "Bolt", , "rbolt@pdx.edu", role = c("aut", "cre")
+Description: This package takes in a string of values and outputs the mean. 
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
